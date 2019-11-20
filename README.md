@@ -42,8 +42,8 @@
 - **덱 매니저**:
   - 웹 사이트에서 덱 **불러오기** : arenavalue, hearthstats, hearthpwn, hearthhead, hearthstoneplayers, tempostorm, hearthstonetopdeck 그리고 hearthnews에서 불러올 수 있습니다.  
   - 18개 덱 제한 초과하기: **하스스톤으로 내보내기**(My Decks > More...) 를 통해 덱을 저장 할 수 있습니다.
-  - 덱은 사용자**태그**를 통해 필터링 할 수 있으며 이름과 날짜, 태그로 정렬할 수 있습니다.  
-  - 각 덱에**메모**(My Decks > More...) 를 설정할 수 있습니다.  
+  - 덱은 사용자 **태그**를 통해 필터링 할 수 있으며 이름과 날짜, 태그로 정렬할 수 있습니다.  
+  - 각 덱에 **메모**(My Decks > More...) 를 설정할 수 있습니다.  
   - 덱의 **스크린샷**(My Decks > More...) 을 생성할 수 있습니다.
   - 당신의 덱을 XML 파일 혹은 덱 코드로 내보내 **공유**(My Decks > More...) 할 수 있습니다. 두 방식 모두 New Deck > Import를 통해 불러올 수 있습니다.  
 - **알림**: 게임 혹은 턴 시작시 알림을 받으세요. (트레이 아이콘 번쩍임 혹은 하스스톤 창 팝업의 두 가지 방식)  
