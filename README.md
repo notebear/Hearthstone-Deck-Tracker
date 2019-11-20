@@ -1,25 +1,25 @@
-# Hearthstone-Deck-Tracker
+# 하스스톤-덱-트래커
 [![Build status](https://ci.appveyor.com/api/projects/status/3wow545sjaq9ybji/branch/master?svg=true)](https://ci.appveyor.com/project/azeier/hearthstone-deck-tracker/branch/master)
 
-Hearthstone Deck Tracker is an automatic deck tracker and deck manager for Hearthstone.
+하스스톤 덱트래커는 하스스톤에 적용되는 자동 덱 추적 및 덱 관리 프로그램입니다.
 
-## Installation
-- Requirements:
-  - Windows Vista or higher
-  - .NET Framework 4.5 or higher
-- [Download and run the installer](https://hsdecktracker.net/download/).
+## 설치하기
+- 요구사항:
+  - 윈도우 비스타 이상의 버전
+  - .NET Framework 4.5 이상의 버전
+- [다운로드 후 설치파일 실행하기](https://hsdecktracker.net/download/).
 
-## Community & Troubleshooting
-- [Follow HDT on Twitter](https://twitter.com/hsdecktracker)
-- Join the Community Discord: [![Join HearthSim Community Discord](https://discordapp.com/api/guilds/265636998700728321/widget.png)](https://discord.gg/hearthsim)
-- You can find the [FAQ here](https://github.com/HearthSim/Hearthstone-Deck-Tracker/wiki/FAQ).
-- Streamers: Please read [Streaming instructions for OBS and XSplit](https://github.com/HearthSim/Hearthstone-Deck-Tracker/wiki/Streaming-Instructions) and [Twitch extension setup](https://hsdecktracker.net/twitch/setup/).
-- HSReplay.net integration: Please email <support@hsdecktracker.net> for support.
+## 커뮤니티 & 문제 제기
+- [트위터에서 HDT 팔로우하기](https://twitter.com/hsdecktracker)
+- 디스코드에 참여하기: [![Join HearthSim Community Discord](https://discordapp.com/api/guilds/265636998700728321/widget.png)](https://discord.gg/hearthsim)
+- 자주 묻는 질문은 [여기](https://github.com/HearthSim/Hearthstone-Deck-Tracker/wiki/FAQ) 에서 보실 수 있습니다.
+- 인터넷 방송인: [OBS와 XSplit 방송 설정하기](https://github.com/HearthSim/Hearthstone-Deck-Tracker/wiki/Streaming-Instructions) 과 [트위치 확장프로그램 설정](https://hsdecktracker.net/twitch/setup/) 을 읽어주세요.
+- HSReplay.net 통합 완성: <support@hsdecktracker.net>로 도움 메일을 보내주세요.
 
-## Contributing
-- Please read the [coding style and Commit/Pull Request guidelines](https://github.com/HearthSim/Hearthstone-Deck-Tracker/blob/master/CONTRIBUTING.md).
-- Developer Discord: [![joindeveloper#hdt](https://discordapp.com/api/guilds/195326447118712832/widget.png)](https://discord.gg/hearthsim-devs)
-- Hearthstone Deck Tracker is a [HearthSim](https://hearthsim.info) project.
+## 기여하기
+- [문법 작성 및 Commit/Pull Request 가이드 라인](https://github.com/HearthSim/Hearthstone-Deck-Tracker/blob/master/CONTRIBUTING.md)을 읽어주세요.
+- 개발자 디스코드: [![joindeveloper#hdt](https://discordapp.com/api/guilds/195326447118712832/widget.png)](https://discord.gg/hearthsim-devs)
+- 하스스톤덱트래커는 [HearthSim](https://hearthsim.info) 프로젝트입니다.
 
 ## Features
 An in-game overlay:
